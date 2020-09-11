@@ -10,7 +10,7 @@ This is a Telegram Rename Bot!
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
@@ -22,17 +22,15 @@ This is a Telegram Rename Bot!
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """Hai am Rename bot..
+    HELP_USER = """Hi I am Rename bot..
     
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
-   
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/yYHrSnuYXpA">Diploy</a>
 
 --------
 
-Support Group : @InFoTelGroup
-© @SpEcHlDe @TGBotsZ"""
+Official channel: @TemaUz_N1
+Creators: @OnlineWolf and @ProMasterPHP"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
@@ -42,5 +40,5 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@ReNameBot</code>
+©️ <code>@RenamerUz_Bot</code>
 Please short your file name and try again!"""
